@@ -1,0 +1,7 @@
+Puntos Incompletos:
+Define una API REST que permita a los usuarios acceder a la lista de empleados y
+obtener detalles de un empleado específico.
+Implementa dos rutas:
+/empleados (GET): Devuelve la lista de empleados en formato JSON.
+/empleados/:id (GET): Devuelve los detalles de un empleado específico en formato
+JSON.
